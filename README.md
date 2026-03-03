@@ -15,6 +15,9 @@ This project explores geometric and spectral structures inspired by string theor
 - Virasoro constraint monitoring
 - Induced worldsheet metric
 - Curvature estimation
+![WhatsApp Image 2026-03-03 at 20 31 52](https://github.com/user-attachments/assets/294fff03-2ee6-4bf4-90e7-49eb9482b57a)
+![WhatsApp Image 2026-03-03 at 20 31 51 (1)](https://github.com/user-attachments/assets/4bac7981-8b09-4ba8-ae54-cde7471333b5)
+![WhatsApp Image 2026-03-03 at 20 31 51](https://github.com/user-attachments/assets/cd4c684e-d4f7-4559-af84-d00ce7f88d3f)
 
 ### 2️⃣ Fourier Mode Spectrum Analyzer
 - FFT decomposition along σ
